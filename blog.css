@@ -1,0 +1,20 @@
+html{
+    background-color: antiquewhite;
+}
+ .item img{
+    max-width: 100%;
+    height: auto;
+     display: block; */
+ }
+    
+ .continer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+ }
+ .item{
+     width: 200px; */
+    text-align: left;
+    border: 1px solid red;
+    padding: 10px;
+ }
